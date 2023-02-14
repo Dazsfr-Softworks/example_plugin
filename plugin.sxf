@@ -1,0 +1,45 @@
+{
+  "MainInfo":{
+    "WindowTitle": "Example plugin",
+    "WindowCaption": "SXF - Example Plugin",
+    "DeveloperNickname": "Dazsfr Softworks"
+  },
+  "Functions":{
+    "one":{
+      "Name": "Print a hello world message",
+      "Action": "print('Hello, world!')"
+    },
+    "two":{
+      "Name": "",
+      "Action": ""
+    },
+    "three":{
+      "Name": "",
+      "Action": ""
+    },
+    "four":{
+      "Name": "",
+      "Action": ""
+    },
+    "five":{
+      "Name": "",
+      "Action": ""
+    },
+    "six":{
+      "Name": "",
+      "Action": ""
+    },
+    "seven":{
+      "Name": "",
+      "Action": ""
+    },
+    "eight":{
+      "Name": "",
+      "Action": ""
+    },
+    "nine":{
+      "Name": "",
+      "Action": ""
+    }
+  }
+}
